@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.API", "Ordering.API\Ordering.API.csproj", "{AD0ABBCB-CEBA-4DEA-834D-D6AB8B62B86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotAPIGateway", "OcelotAPIGateway\OcelotAPIGateway.csproj", "{F6EDF9E6-2696-4FDD-8D50-2E814449FEE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0ABBCB-CEBA-4DEA-834D-D6AB8B62B86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0ABBCB-CEBA-4DEA-834D-D6AB8B62B86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0ABBCB-CEBA-4DEA-834D-D6AB8B62B86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0ABBCB-CEBA-4DEA-834D-D6AB8B62B86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EDF9E6-2696-4FDD-8D50-2E814449FEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EDF9E6-2696-4FDD-8D50-2E814449FEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EDF9E6-2696-4FDD-8D50-2E814449FEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EDF9E6-2696-4FDD-8D50-2E814449FEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558ADF5A-48AF-461F-926D-6A662CE42A12}
+	EndGlobalSection
+EndGlobal
